@@ -3,7 +3,7 @@
 -- Create people_view view and people_procedure stored procedure.
 -- -----------------------------------------------------
 
-alter table people add constraint fk_people_state
+alter table people add constraint fk_people_state:
   foreign key (state) references states(state);
 
 create view people_view as (
