@@ -5,7 +5,7 @@
 
 alter table people add constraint fk_people_state
   foreign key (state) references states(state);
-asjdaj:;;;;
+
 create view people_view as (
   select
     person_id,
@@ -19,7 +19,7 @@ create view people_view as (
     zip_code
   from people
 );
-
+SELECT id, name FROM person WHERE name like 'M%';
 DELIMITER //
 CREATE PROCEDURE `people_procedure` (IN var1 INT)
 LANGUAGE SQL
