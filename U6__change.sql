@@ -1,3 +1,3 @@
-drop table if exists tables;
-drop table if exists states;
-drop table if exists states;
+ALTER TABLE people DROP FOREIGN KEY fk_people_state;
+drop view if exists people_view;
+DROP PROCEDURE if exists people_procedure;
