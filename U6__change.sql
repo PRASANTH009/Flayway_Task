@@ -1,3 +1,2 @@
-SELECT *
-FROM INFORMATION_SCHEMA.COLUMNS
---WHERE TABLE_NAME = N'people' 
+SELECT table_name FROM information_schema.tables WHERE table_schema ='CODBFLY'; 
+ 
