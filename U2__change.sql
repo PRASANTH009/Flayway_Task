@@ -1,1 +1,1 @@
-SELECT * FROM FlywayTestVal;
+DELETE FROM Flayway_test1;
