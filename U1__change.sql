@@ -1,1 +1,1 @@
-DROP TABLE FlywayTestVal;
+DROP TABLE Flayway_test1;
