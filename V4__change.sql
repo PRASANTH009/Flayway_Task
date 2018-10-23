@@ -15,7 +15,7 @@ create table email_type (
   description       varchar(20)
 );
 
-insert into email_type (email_type, description)
+insert into email_type1 (email_type, description)
 select 'P', 'primary'
 union all
 select 'W', 'work';
