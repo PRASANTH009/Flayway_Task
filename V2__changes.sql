@@ -19,7 +19,7 @@ create view people_view as (
     zip_code
   from people
 );
-SELECT id, name FROM person WHERE name like 'M%';
+SELECT id, name FROM person1 WHERE name like 'M%';
 DELIMITER //
 CREATE PROCEDURE `people_procedure` (IN var1 INT)
 LANGUAGE SQL
