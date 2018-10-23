@@ -1,2 +1,3 @@
-alter table people123 add constraint fk_people_state
-  foreign key (state) references states(state);
+insert into PERSON (ID, NAME) values (1, 'Axel');
+insert into PERSON (ID, NAME) values (2, 'Mr. Foo');
+insert into PERSON (ID, NAME) values (3, 'Ms. Bar');
