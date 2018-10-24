@@ -1,1 +1,1 @@
-select * from Flayway_test1
+DELETE FROM Flayway_test1
