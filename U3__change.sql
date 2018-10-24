@@ -1,1 +1,1 @@
-select * from states
+select * from Flayway_test1
