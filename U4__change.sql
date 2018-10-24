@@ -1,1 +1,1 @@
-select * from Flayway_test1
+DROP TABLE Flayway_test2
