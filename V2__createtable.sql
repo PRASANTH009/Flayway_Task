@@ -1,4 +1,5 @@
-create table flaywaytest1 (
-    ID int not null,
-    NAME varchar(100) not null
-);
+
+insert into Flayway_test1 (ID, NAME) values (1, 'Axel');
+insert into Flayway_test1 (ID, NAME) values (2, 'Mr. Foo');
+insert into flayway_ (ID, NAME) values (3, 'Ms. Bar');
+
