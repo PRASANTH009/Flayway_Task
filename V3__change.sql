@@ -1,8 +1,3 @@
--- -----------------------------------------------------
--- Insert some master data in state table.
--- -----------------------------------------------------
-
-insert into states (state, description)
-select 'KA' as state, 'Karnataka' as descriptio
-union all
-select 'GO' as state, 'Goa' as description;
+insert into Flayway_test1 (ID, NAME) values (1, 'Axel');
+insert into Flayway_test1 (ID, NAME) values (2, 'Mr. Foo');
+insert into flayway_ (ID, NAME) values (3, 'Ms. Bar');
