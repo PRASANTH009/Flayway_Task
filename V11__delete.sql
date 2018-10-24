@@ -1,1 +1,1 @@
-DELETE * FROM flaywaytest1;
+DELETE FROM flaywaytest1;
