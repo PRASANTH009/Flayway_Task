@@ -1,1 +1,1 @@
-DELETE TABLE Flayway_test2
+DELETE TABLE Flayway_test2;
