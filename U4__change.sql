@@ -1,1 +1,1 @@
-DROP TABLE Flayway_test2
+DROP TABLE Flayway_test2;
