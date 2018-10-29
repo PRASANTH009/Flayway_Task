@@ -1,0 +1,25 @@
+•	Writing Shell scripts to automatically configure integration and test environments, including deploying and un-deploying WAR and TAR files, stopping and starting Application Servers and processes.
+Administration and creation of Jenkins jobs, including automatic generation, reporting and alerting of test and code metrics, build failures and build status indicators, and information radiators
+•	Creating a fully Automated Build and Deployment Platform and coordinating code builds promotions and orchestrated deployments using Jenkins/Hudson, Subversion and GIT.
+•	Managed the team's source repository and involved in the build, release and continuous integration process
+•	Set up Jenkins server and build jobs to provide continuous automated builds based on polling the Git source control system during the day and periodic scheduled builds overnight to support development needs using Jenkins. Created plans, stages, jobs and tasks to conduct automatic builds for projects
+•	Maintained and executed build scripts using Maven by coordinating with Development teams
+•	Knowlegde on plugin categories, automatically installing plugins and customize installing plugins  in jenkins server
+•	Implement and maintain the monitoring and alerting of production and corporate servers/storage (Nagios including add-ons and wrappers, AWS Cloud Watch
+
+
+
+•	Working on production, test and development environments.
+•	Supported hundreds of several servers on different platforms.
+•	Administering the 1000+ Servers that run MQ 6, MQ 7 & MQ 7.5
+•	Troubleshooting issues by tracing MQ logs.
+•	Installing, upgrading and rebuilding new MQ servers.
+•	Working on MQ scripts for new production changes and PROD monitoring.
+•	Schedule and Implement production change requests.
+•	Tracking issues under a ticket based Incident Management system and keep the client updated about status of issues.
+•	Adhering to process and SLA to ensure the closure of tickets within SLA period and escalate the issues to next level whenever needed.
+•	Preparing weekly and monthly Incident reports.
+•	Providing support through emails, OCS, calls and Remedy Incident management system.
+Attending weekly meetings, conference calls
+
+
